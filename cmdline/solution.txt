@@ -4,3 +4,4 @@ byte2 No one will find this: grep_is_your_friend
 byte3 The change word is : programmers
 byte4 you_just_found_the_triwizard_cup
 byte5 Usage: ./byte5 <SDI>
+byte6 byte6.txt  byte6.zip
