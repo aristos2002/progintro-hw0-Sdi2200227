@@ -6,3 +6,4 @@ byte4 you_just_found_the_triwizard_cup
 byte5 Usage: ./byte5 <SDI>
 byte6 byte6.txt  byte6.zip
 byte7 byte7.tar.gz  byte7.txt  yo
+byte8 no_more_secrets_from_you  
