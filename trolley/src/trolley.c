@@ -4,28 +4,28 @@
 
 int main()
 {
-    long long left_cost, right_cost;
+    float left, right;
 
     while (1)
     {
 
         printf("Please enter the cost of going left: ");
-        if (scanf("%lld", &left_cost) == EOF)
+        if (scanf("%f", &left) == EOF)
         {
             return 0;
         }
 
         printf("Please enter the cost of going right: ");
-        if (scanf("%lld", &right_cost) != 1)
+        if (scanf("%f", &right) != 1)
         {
             return 1;
         }
 
-        if (left_cost < right_cost)
+        if (left < right)
         {
             printf("Go left\n");
         }
-        else if (left_cost > right_cost)
+        else if (left > right)
         {
             printf("Go right\n");
         }
