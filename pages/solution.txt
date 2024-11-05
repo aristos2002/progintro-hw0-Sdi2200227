@@ -1,4 +1,4 @@
-https://github.com/aristos2002/progintro-hw0-sdi2200227.git 
+ git@github.com:aristos2002/progintro-hw0-sdi2200227.git
 
 
 
